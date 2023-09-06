@@ -4,23 +4,6 @@ This project is a web application that helps users find universities around the 
 It uses the DBPedia knowledge base, MariaDB database, RDF file, Google Map's API, and ImgBB to retrieve and display information about universities, 
 such as their name, location, ranking, and courses offered.
 
-Getting Started
-To install and run this project, you will need the following:
-
-You can follow these steps to get started:
-
-Clone the repository to your local machine.
-Create a virtual environment and activate it.
-Install the requirements by running the following command:
-pip install -r requirements.txt
-
-Create a `.env` file and add the following environment variables:
-DB_HOST=localhost
-DB_PORT=3306
-DB_NAME=university_finder
-DB_USER=root
-DB_PASSWORD=
-
 The project will be available at http://localhost:8000.
 
 Usage
