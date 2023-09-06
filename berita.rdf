@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:dc="http://purl.org/dc/terms/">
+
+  <foaf:TubesPWSDocument rdf:about="http://localhost/TUBES_WS/berita.rdf">
+    <rdfs:label>Berita terkait Universitas</rdfs:label>
+    <foaf:maker rdf:resource="http://localhost/TUBES_WS/"/>
+    <foaf:primaryTopic rdf:resource="http://localhost/TUBES_WS/"/>
+  </foaf:TubesPWSDocument>
+
+  <foaf:Recommend rdf:about="http://localhost/TUBES_WS/">
+
+    <foaf:HB>
+        <foaf:berita rdf:about="http://localhost/TUBES_WS/#berita1">
+            <foaf:img rdf:resource="https://i.ibb.co/KGLxWTc/tolak-jalur-mandiri.jpg"/>
+            <foaf:title>Majelis Rektor PTN Tolak Penerimaan Mahasiswa Jalur Mandiri Dihapus</foaf:title>
+            <foaf:tanggal>Senin, 05 Sep 2022 </foaf:tanggal>
+            <foaf:isi>
+                    Jakarta, CNN Indonesia -- Ketua Majelis Rektor Perguruan Tinggi Negeri Indonesia (MRPTNI) Jamal Wiwoho menolak wacana 
+                    penghapusan penerimaan mahasiswa baru melalui jalur mandiri di Perguruan Tinggi Negeri (PTN).Jamal mengklaim penerimaan
+                    mahasiswa baru melalui jalur mandiri yang telah berlangsung selama lebih dari 10 tahun berjalan baik. Penerimaan mahasiswa 
+                    baru lewat jalur mandiri pun tertuang dalam Undang-Undang (UU) Nomor 12 Tahun 2012 tentang Pendidikan Tinggi.
+            </foaf:isi>
+            <foaf:link_berita>https://www.cnnindonesia.com/nasional/20220905095136-20-843277/mejelis-rektor-ptn-tolak-penerimaan-mahasiswa-jalur-mandiri-dihapus</foaf:link_berita>
+        </foaf:berita>
+    </foaf:HB>
+
+    <foaf:HB>
+    <foaf:berita rdf:about="http://localhost/TUBES_WS/#berita2">
+        <foaf:img rdf:resource="https://i.ibb.co/hKcc2cM/20-pt-terbaik.jpg"/>
+        <foaf:title>Daftar 20 Perguruan Tinggi Terbaik di Indonesia 2022 "versi Unirank</foaf:title>
+        <foaf:tanggal>Selasa, 16 Agu 2022</foaf:tanggal>
+        <foaf:isi>
+                Jakarta, CNN Indonesia -- Ada lebih dari 500 universitas atau perguruan tinggi, baik negeri maupun swasta yang tersebar di 
+                seluruh penjuru Indonesia. Kampus-kampus ini menawarkan berbagai model pendidikan dan jurusan yang beragam untuk para mahasiswanya.
+                Sebuah lembaga pemeringkat universitas dari Sydney, Australia bernama Unirank membuat daftar peringkat universitas terbaik di Indonesia 2022. 
+                Berikut daftar perguruan tinggi terbaik Unirank 2022.
+        </foaf:isi>
+        <foaf:link_berita>https://www.cnnindonesia.com/gaya-hidup/20220816163424-284-835389/daftar-20-perguruan-tinggi-terbaik-di-indonesia-2022-versi-unirank</foaf:link_berita>
+    </foaf:berita>
+    </foaf:HB>
+
+    <foaf:HB>
+    <foaf:berita rdf:about="http://localhost/TUBES_WS/#berita3">
+        <foaf:img rdf:resource="https://i.ibb.co/gW6g9jm/6-kampus.jpg"/>
+        <foaf:title>Enam Kampus di Indonesia Masuk Nominasi THE Asia Awards 2022</foaf:title>
+        <foaf:tanggal>Sabtu, 11 Jun 2022</foaf:tanggal>
+        <foaf:isi>
+                Jakarta, CNN Indonesia -- Sejumlah perguruan tinggi Indonesia masuk nominasi THE (Times Higher Education) Asia Awards 2022. Kampus-kampus ini 
+                masuk di berbagai nominasi yang cukup membanggakan. Chief Knowledge Officer THE Asia Awards, Phil Baty mengungkapkan, kampus memang menjadi tempat 
+                belajar yang cukup penting. Kampus-kampus yang terpilih adalah lembaga pendidikan yang mampu beradaptasi menghadapi tantangan baru.              
+        </foaf:isi>
+        <foaf:link_berita>https://www.cnnindonesia.com/gaya-hidup/20220610190723-284-807546/enam-kampus-di-indonesia-masuk-nominasi-the-asia-awards-2022</foaf:link_berita>
+    </foaf:berita>
+    </foaf:HB>
+
+    <foaf:HB1>
+    <foaf:berita rdf:about="http://localhost/TUBES_WS/#berita4">
+        <foaf:img rdf:resource="https://i.ibb.co/nCnrqqq/aksi-tolak.jpg"/>
+        <foaf:title>UI Raih Peringkat I Indonesia US News Best Global Universities</foaf:title>
+        <foaf:tanggal>Minggu, 14 Nov 2021</foaf:tanggal>
+        <foaf:isi>
+                Jakarta, CNN Indonesia -- Universitas Indonesia (UI) menempati peringkat pertama universitas terbaik (Best Universities) di Indonesia. Peringkat ini 
+                didasarkan pada penilaian yang dilakukan oleh lembaga pemeringkatan perguruan tinggi dunia U.S. News Best Global Universities 2022.
+                Informasi itu disampaikan oleh Rektor UI Ari Kuncoro.             
+        </foaf:isi>
+        <foaf:link_berita>https://www.cnnindonesia.com/gaya-hidup/20211114082207-284-720867/ui-raih-peringkat-i-indonesia-us-news-best-global-universities</foaf:link_berita>
+    </foaf:berita>
+    </foaf:HB1>
+
+    <foaf:HB1>
+    <foaf:berita rdf:about="http://localhost/TUBES_WS/#berita5">
+        <foaf:img rdf:resource="https://i.ibb.co/kQR1CcX/last.jpg"/>
+        <foaf:title>Kampus Asing Pertama di Indonesia Mulai Buka 4 Oktober</foaf:title>
+        <foaf:tanggal>Kamis, 30 Sep 2021</foaf:tanggal>
+        <foaf:isi>
+                Jakarta, CNN Indonesia -- Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi (Mendikbudristek) Nadiem Makarim menyambut baik kehadiran kampus asing pertama
+                di nusantara, Monash University Indonesia. Kampus asal Australia tersebut akan memulai kegiatan operasionalnya pada Sabtu (4/10) dengan inagurasi bagi mahasiswa 
+                angkatan pertama. Perkuliahan akan dimulai secara virtual, yang akan bertahap transisi ke perkuliahan tatap muka yang akan mengikuti kebijakan pemerintah.
+        </foaf:isi>
+        <foaf:link_berita>https://www.cnnindonesia.com/nasional/20210930180043-20-701694/kampus-asing-pertama-di-indonesia-mulai-buka-4-oktober</foaf:link_berita>
+    </foaf:berita>
+    </foaf:HB1>
+
+   </foaf:Recommend>
+</rdf:RDF>
